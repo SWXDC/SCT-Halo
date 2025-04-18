@@ -1,9 +1,9 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: BS
+  name: SCT
 spec:
-  displayName: BS
+  displayName: SCT
   author:
     name: StrawCoding
     website: https://www.strawserver.com
