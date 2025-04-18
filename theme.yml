@@ -8,14 +8,14 @@ spec:
     name: StrawCoding
     website: https://www.strawserver.com
   description: A Halo theme by StrawCoding.
-  logo: https://www.halo.run/logo
-  homepage: https://github.com/halo-sigs/theme-foo
-  repo: https://github.com/halo-sigs/theme-foo.git
-  issues: https://github.com/halo-sigs/theme-foo/issues
+  logo: https://raw.githubusercontent.com/SWXDC/SCT-Halo/refs/heads/main/img/PNG-s.png
+  homepage: https://github.com/SWXDC/SCT-Halo
+  repo: https://github.com/SWXDC/SCT-Halo.git
+  issues: https://github.com/SWXDC/SCT-Halo/issues
   settingName: "theme-straw-setting"
   configMapName: "theme-straw-configMap"
   version: 1.0.0
   requires: 2.0.0
   license:
-    - name: "GPL-3.0"
-      url: "https://github.com/halo-sigs/theme-foo/blob/main/LICENSE"
+    - name: "MIT License"
+      url: "https://github.com/SWXDC/SCT-Halo/blob/main/LICENSE"
